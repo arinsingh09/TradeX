@@ -28,7 +28,7 @@ TradeX is a real-time trading system developed in C++ that integrates with the *
 
 1. Clone the repository:
    ```zsh
-   git clone https://github.com/your-username/TradeX.git
+   git clone https://github.com/arinsingh09/TradeX.git
    cd TradeX
    ```
 2. Install dependencies and build:
