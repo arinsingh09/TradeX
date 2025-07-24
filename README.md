@@ -35,7 +35,7 @@ TradeX is a real-time trading system developed in C++ that integrates with the *
    ```zsh
    mkdir build && cd build
    cmake ..
-   make --build . --parallel #on macOS
+   cmake --build . --parallel #on macOS
    ```
 3. Set up API credentials:
    ```zsh
